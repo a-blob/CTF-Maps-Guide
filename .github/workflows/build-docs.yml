@@ -10,7 +10,7 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/ch'
+  INSTANCE: 'Writerside/cmg'
   DOCKER_VERSION: '243.21565'
 
 jobs:
