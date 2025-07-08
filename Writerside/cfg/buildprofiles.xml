@@ -1,0 +1,17 @@
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <variables>
+        <custom-favicons>logo.png</custom-favicons>
+        <header-logo>logo.png</header-logo>
+    </variables>
+    <build-profile instance="instance_id"/>
+    <footer>
+        <copyright>2025 GreenBlob</copyright>
+        <link href="https://github.com/a-blob/CTF-Maps-Guide">Website source</link>
+    </footer>
+    <build-profile instance="ch">
+        <variables>
+            <noindex-content>false</noindex-content>
+        </variables>
+    </build-profile>
+</buildprofiles>

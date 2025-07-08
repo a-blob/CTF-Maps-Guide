@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="cmg"
+                 name="CTF Maps Guide"
+                 start-page="Map-Creation-Guide.md">
+
+    <toc-element topic="Map-Creation-Guide.md">
+        <toc-element topic="Making-a-Map-for-Capture-the-Flag.md"/>
+        <toc-element topic="Commonly-Used-Itemstrings-List.md"/>
+    </toc-element>
+    <toc-element topic="Troubleshooting.md"/>
+</instance-profile>
